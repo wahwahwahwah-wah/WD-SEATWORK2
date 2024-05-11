@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/wahwahwahwah-wah/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="https://i.pinimg.com/564x/8a/1b/7c/8a1b7c4a69be7bac40041380b1973dc2.jpg" alt="LHIZ" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Seatwork 2</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  A short resume that contains background information about me.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=wahwahwahwah-wah/WD-SEATWORK2)
 
 ---
 
@@ -35,7 +35,7 @@
       <a href="#overview">Overview</a>
       <ol>
         <li>
-          <a href="#key-components">Key Components</a>
+          <a href="#academic-background">Academic Background</a>
         </li>
         <li>
           <a href="#technology">Technology</a>
