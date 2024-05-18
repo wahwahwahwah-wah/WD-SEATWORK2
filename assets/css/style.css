@@ -1,6 +1,6 @@
 *{
-    margin 0;
-    padding 0;
+    margin: 0;
+    padding: 0;
 }
 
 /* Dev (dinidelete)*/
@@ -16,7 +16,7 @@ section.hero* {
 
 /* Dep (hindi dinidelete)*/
 header {
-    width 100vh;
+    width: 100vh;
     position: fixed;
     background-color: white;
     z-index: 20%;
@@ -37,10 +37,12 @@ header {
             font-size: medium;
             font-weight: 600;
             color: rgb(82, 82, 82)
-            transition: .3s ease-in-out;
+            /*transition for button*/
+            transition .3s ease-out;
+
 
             &:hover {
-                color: rgb(36, 36, 36):bisque
+                color: rgb(36, 36, 36); /*hover color*/
             }
         }
     }
@@ -70,7 +72,7 @@ section.hero {
         align-items: center;
         justify-content: center;
         height: 100vh;
-        background: white
+        background: white;
         padding: 1.5rem;
         margin: 1rem;
         gap: 14px;
@@ -94,7 +96,7 @@ section.hero {
         transition: .3s ease-out;
 
         &:hover {
-            transform: scale(110%) translateY (-4px)
+            transform: scale(110%) translateY (-4px);
             box-shadow: rgba(0, 0, 0, 0.2) 0px 15px 10px -7px;;
         }
     }
