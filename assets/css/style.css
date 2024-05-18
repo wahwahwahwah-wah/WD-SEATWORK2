@@ -11,6 +11,9 @@
     background-color: #e0f7fa;
   }
   
+  lhizh1 {
+    text-decoration: underline 3px;}
+
   header {
     width: 100%;
     position: fixed;
@@ -40,11 +43,19 @@
     color: #00796b;
     transition: color 0.3s ease-out;
     cursor: pointer;
+    transition: transform 0.3s ease, background-color 0.3s ease;
   }
   
   header button:hover {
     color: #004d40;
+    transform: scale(1.2);
   }
+
+  header button:focus {
+    outline: none;
+    text-decoration: underline;
+}
+
   
   section.hero {
     height: 100vh;
