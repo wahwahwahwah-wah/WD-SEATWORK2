@@ -57,7 +57,6 @@ header button:focus {
   text-decoration: underline;
 }
 
-
 section.hero {
   height: 100vh;
   display: flex;
@@ -110,3 +109,33 @@ section.hero button:hover {
   transform: scale(1.1) translateY(-4px);
   box-shadow: rgba(0, 0, 0, 0.2) 0px 15px 10px -7px;
 }
+
+/* Hobbies Section */
+header > div {
+  margin-top: 100px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2rem;
+  color: #004d40;
+  margin-bottom: 20px;
+}
+
+header h2 {
+  font-size: 1.5rem;
+  color: #00796b;
+  margin: 20px 0;
+}
+
+header img {
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+
